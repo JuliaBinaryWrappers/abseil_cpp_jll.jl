@@ -1,0 +1,288 @@
+[[abseil_cpp]]
+arch = "aarch64"
+git-tree-sha1 = "6e1f092c4e8e0964a47cb028bd50ec1585cc0bf2"
+os = "macos"
+
+    [[abseil_cpp.download]]
+    sha256 = "050ad702365a61c2212e76375af7b2d185efdfa2304fb2a8497f93bda0989aba"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.aarch64-apple-darwin.tar.gz"
+[[abseil_cpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "13e9a695c2bde86459d3f3f024e3de9176540424"
+libc = "glibc"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "f7e27aa4f8d819128e270d232b282c3af72a57e0025d793f7800d9b79b09203f"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[abseil_cpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "033eed2ccf933e6d60d8d8e0fdf46113a8b2766f"
+libc = "glibc"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "54cd942ab312ae31b9c173955c244b32ef695991612c3aafd657f32f0dec1538"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[abseil_cpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "78014a2a940196e15ac17e821b53c06b23c98279"
+libc = "musl"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "cf1ffc3bd71b5fbd3db6f6971f9993f9e670c4966658e572d02a09b9eb5aee2a"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.aarch64-linux-musl-cxx03.tar.gz"
+[[abseil_cpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "016333fffc3d9954777e3edd84e540e458353689"
+libc = "musl"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "4e0b8e4bc63130590a0de8d9113297465531a81ef750996b5a70df62d9e94f96"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.aarch64-linux-musl-cxx11.tar.gz"
+[[abseil_cpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7abded7e05ebc9e582c6a65066c3ef33ec529477"
+libc = "glibc"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "200829dc6fc01f4d33177e8aef96a4841084c4c802dc8deebbb54ee173510fdc"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[abseil_cpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bc647fdc9a7ce24e81156a7bee542f4f6c056b41"
+libc = "glibc"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "40e6feef65e2aa37fe49bd7298d3a15d51cb3ca6823b7dc924d8d528775c6d86"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[abseil_cpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "01112b9c78370426695aed87b9fb170134629b2c"
+libc = "musl"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "8c940da20ae2977f1c96a8a8d5bb7b8f60cc649a3437c6066ff95e8b8ad963b9"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[abseil_cpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6da61c961022a9f1d68e41161dfe54f2ca0c32ba"
+libc = "musl"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "99be1474114c1b2a963a26bb7d124347232aa2e73129d5d4c69b4fced6f3555f"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[abseil_cpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7ad77fb27875609150a0cde6e96721167b2e4c0a"
+libc = "glibc"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "fbf51d398247bbd54a5f717ca4b58f88ec6e8b149c745e7d0bcbeecfdf8d944a"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[abseil_cpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fac353c33702f3ef8074082491e220823b9b5d6a"
+libc = "glibc"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "edeaa8a8116cead4eb0fa6c1f8a9dba713c2c6647f27847023f9802d7fe7e8f7"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[abseil_cpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "30c7135882aa7529fa4d5beea0a4443722b67cc0"
+libc = "musl"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "8d96e8cab700eb98833b1dc54bf580842ee87e6fec5e1da8988c2c15ff712542"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[abseil_cpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f294765a3ac2e6699159798ab3e42ebea016b63"
+libc = "musl"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "759e0944fd2892e61b659455a0cb3b44a0560948bb3966aaa778914c9a0a2183"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[abseil_cpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2bc3695f59b4540bcd54b6c28765912d10d1bb69"
+libc = "glibc"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "4ef451a518155f320b91c1e5aa713cbb6d76bde595b26d07c95c2beb9dc0db21"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.i686-linux-gnu-cxx03.tar.gz"
+[[abseil_cpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eb246b5ae913bb07154cff3f74df8d5cb912ba47"
+libc = "glibc"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "527b6dd0a2d026206cdd41f0fdf825137c3ceee259f7deb68041842a9e30de3d"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.i686-linux-gnu-cxx11.tar.gz"
+[[abseil_cpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b8cb1ca3802bdd6b4e5675dc14e3cb31f8b18608"
+libc = "musl"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "ba4c76f51efcf9ec54f67998ee3bbc2d261178390ee20ffcb03b323c10883a1f"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.i686-linux-musl-cxx03.tar.gz"
+[[abseil_cpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b9bd39516b9019ea8a05752288535be94d4d296"
+libc = "musl"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "0d478bc3241e5f5e501d65ce0e8a1e1ba511ecba686776028900130e74705946"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.i686-linux-musl-cxx11.tar.gz"
+[[abseil_cpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f9ffbae81ee87e544a3aea26a8a1d0c9abfe5c38"
+os = "windows"
+
+    [[abseil_cpp.download]]
+    sha256 = "d048754758c52dccf1ba773778e40e87aa69b889f85f175f7d44cc3da062d55e"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.i686-w64-mingw32-cxx03.tar.gz"
+[[abseil_cpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "60b50d71511c890b5a8f6a786d47b24de1cc3673"
+os = "windows"
+
+    [[abseil_cpp.download]]
+    sha256 = "f11aa652ed21b95448bbd3a8853589b42e5f0680fea184fc0e6e072ba7edae8e"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.i686-w64-mingw32-cxx11.tar.gz"
+[[abseil_cpp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "89f52c2a9fbdf90325928f7903b33576c6a5f6c4"
+libc = "glibc"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "686502a0038c6e72dd2017826fc9131ae7448d14b34ca2cae855e5faeda46f60"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[abseil_cpp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7b255aa76338940597e47cc3528ba977d2398224"
+libc = "glibc"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "769e5a65a6b4914f581c2bb1ebbf3f3e5a5f48ad05b8e88712ce0916a85556aa"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[abseil_cpp]]
+arch = "x86_64"
+git-tree-sha1 = "2dbf755b806ff3ca156e82be591ccfd484645497"
+os = "macos"
+
+    [[abseil_cpp.download]]
+    sha256 = "36070ee123ade1c7b48b688bfc62b055c36a20468fd1756b2b4f4446cb9f8c4e"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.x86_64-apple-darwin.tar.gz"
+[[abseil_cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f7d0801b6d10860c0a722059ae54a660ce8a2928"
+libc = "glibc"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "deee6f088a8a598cea886b200beb8e2077e35e02ee7da76ebb39e86fa763b2c2"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[abseil_cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ada12e8235e661db39e433e591063bc2b62ed50c"
+libc = "glibc"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "a901620044ffb47b5ddd9183151687e500137545b32f34069d054f511411dd87"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[abseil_cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "75fec0518198f1052d8edaa01cd3632321a02181"
+libc = "musl"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "2d6279d677962062109ebd8ecd07b0fa0c378eead61708075c116507a02bb12b"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.x86_64-linux-musl-cxx03.tar.gz"
+[[abseil_cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2795ead5c66eb9b8f843c49fc5ad687f98cdbbf5"
+libc = "musl"
+os = "linux"
+
+    [[abseil_cpp.download]]
+    sha256 = "51544e2f901cc3e37afde2691db5d4e044457fb4039c0b8fa85c5afb63ae1f14"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.x86_64-linux-musl-cxx11.tar.gz"
+[[abseil_cpp]]
+arch = "x86_64"
+git-tree-sha1 = "1dd60e7ac18f6cdff598f5902ac199b666dc27cc"
+os = "freebsd"
+
+    [[abseil_cpp.download]]
+    sha256 = "576a911960468bc6d723e8251d9dbbc967c64f37d1881cd165682c976ae62609"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.x86_64-unknown-freebsd.tar.gz"
+[[abseil_cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e4d8c5167955aaf9d28d15cebabb916b16996c23"
+os = "windows"
+
+    [[abseil_cpp.download]]
+    sha256 = "e6407ede9f3cbc6b3d110110f1b59c6fa161e8299f1afbf4f3e8ba1389069765"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[abseil_cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f5c7d1cec998236c18c5c887f4f548e385a5aa1f"
+os = "windows"
+
+    [[abseil_cpp.download]]
+    sha256 = "a1f7dd7910f7e9c2d53cfa09c99a092858a4e4c8f00b91faa87ad3af49e5e900"
+    url = "https://github.com/JuliaBinaryWrappers/abseil_cpp_jll.jl/releases/download/abseil_cpp-v20240116.2.0+0/abseil_cpp.v20240116.2.0.x86_64-w64-mingw32-cxx11.tar.gz"
